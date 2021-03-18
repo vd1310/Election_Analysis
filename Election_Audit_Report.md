@@ -29,7 +29,7 @@ The purpose of this challenge is to analyze election results using Python functi
 #####	Winning candidate was Diana DeGette
 #####	Winning Vote Count: 272,892
 #####	Winning Percentage: 73.8%
-Inline-style: 
+ 
 ![alt text](https://github.com/vd1310/Election_Analysis/blob/main/TerminalResults.png "TerminalResults")
 
 ## Summary

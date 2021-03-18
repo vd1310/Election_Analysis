@@ -31,6 +31,6 @@ The purpose of this challenge is to analyze election results using Python functi
 #####	Winning Percentage: 73.8%
 
 ## Summary
-### This Python script is a powerful tool to further analyze the election results. The scription is well structured and easy to modify and thus can used for any election. Following are the examples of how this script can be modified to be used for other elections:
+### This Python script is a powerful tool to further analyze the election results. The script is well structured and easy to modify and thus can used for any election. Following are the examples of how this script can be modified to be used for other elections:
 #### 1. We can create a conditional state for checking the year and then fetch that year's csv file to read data and as well as provide results
 #### 2. Incase of multiple years, the code can be modified to not only perform year specific election audit but also provide trend of votes over a period and check trends of votes and candidates over the years
